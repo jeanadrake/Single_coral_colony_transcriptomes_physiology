@@ -32,4 +32,3 @@ Table S15. DE of orthologous putative toxins between S. pistillata and Acropora 
 Table S16. DE of known biomineralization-related genes. 60 genes code for proteins recently sequenced from S. pistillata skeleton [2]. CARPs 1, 2, and 3 [3] and a putative bicarbonate transporter [4] were appended to the list. Not all genes associated with known coral skeletal proteins were sequenced here.
 
 Table S17. DE of orthologous biomineralization-related genes between S. pistillata and Acropora spp [1]. Just under half of such genes from S. pistillata have orthologs in the Acropora spp. dataset.
-![image](https://user-images.githubusercontent.com/80126705/110258208-4535c980-7f56-11eb-8492-f0d8fcd0ff82.png)
