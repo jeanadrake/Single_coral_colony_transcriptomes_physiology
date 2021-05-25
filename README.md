@@ -1,4 +1,4 @@
-# Single_corol_colony_transcriptomes_physiology
+# Single_corol_colony_transcriptomes_tissue_skeleton
 Electronic Supplementary Material Table Legends, Figures, and Figure Legends for: Physiological and transcriptomic variability indicative of differences in key functions within a single coral colony
 
 Jeana L. Drake1+, Assaf Malik1+, Yotam Popovits1+, Oshra Yosef1, Eli Shemesh1, Jarosław Stolarski2, Dan Tchernov1, Daniel Sher1,3* and Tali Mass1,3*
